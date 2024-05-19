@@ -1,0 +1,1 @@
+export const getRootColor = (variable) => getComputedStyle(document.documentElement).getPropertyValue(variable)

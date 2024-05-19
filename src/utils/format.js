@@ -1,0 +1,1 @@
+export const formatPosition = (position) =>  position <= 9 ? `0${position}` : position
